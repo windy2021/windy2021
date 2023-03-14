@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @windy2021
 - 👀 I’m interested in web app development, mobile app development
-- 🌱 I’m learning C#, Python, JavaScript
-- 💞️ Favorite language atm: C#
+- 🌱 I’m learning C#, Python, JavaScript, React
+- 💞️ Favorite language atm: JavaScript
 - 📫 felcialin@gmail.com
 
 <!---
